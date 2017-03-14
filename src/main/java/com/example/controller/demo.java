@@ -37,6 +37,7 @@ public class demo {
         list3.add("6");
         list3.add("7");
         list3.add("1");
+        //         1  2  3    3  4  5  4     3  6   7  1
         //要求输出 1   2  3     4  5  4  3  6  7  1
         List<String> allList=new ArrayList<>();
         allList.addAll(list1);
